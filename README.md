@@ -1,8 +1,7 @@
 # CandyRain
 
+跟着教学视频敲的，还木有掌握代码的精髓。不过看着很开心~
 
-<iframe height=498 width=510 src="https://github.com/Hoooopa/CandyRain/raw/master/video.mp4"><iframe>
+视频不会插入，gif看着有点卡。。。。
 
-<video width="480" height="320" controls>
-<source src="https://github.com/Hoooopa/CandyRain/raw/master/video.mp4">
-</video>
+![](https://github.com/Hoooopa/CandyRain/blob/master/video.gif)
